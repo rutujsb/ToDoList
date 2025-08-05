@@ -4,8 +4,7 @@
 A simple, responsive **To-Do List** app built using HTML, CSS, and JavaScript.
 
 ## Preview Image ##
-
-
+   todo.png
 
 ##  Features
 
